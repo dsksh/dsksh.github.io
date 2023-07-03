@@ -3,13 +3,9 @@ email: dsksh@jaist.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage of Ishii Labratory at JAIST.
   JAIST石井研究室のホームページです．
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.dsksh.com"
 google_analytics: G-Y2VHM986Y7
 github_username:  dsksh
-
-# Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
-#  - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
