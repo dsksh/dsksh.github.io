@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 lang: ja
 title: 学生募集
 ---

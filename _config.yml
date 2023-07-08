@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://www.dsksh.com"
 google_analytics: G-Y2VHM986Y7
 github_username:  dsksh
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-redirect-from

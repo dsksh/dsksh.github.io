@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 lang: ja
 title: 石井研究室
 redirect_from:
