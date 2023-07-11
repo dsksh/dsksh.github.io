@@ -36,7 +36,16 @@ Tel: +81-761-51-1260
 
 <br />
 
-## Research
+## <a name="research-en"></a>Research
+
+### Research topics, keywords
+
+- **Software engineering/science** (formal methods, model checking, program verification, etc.).
+- **Constraint programming** (SAT/SMT solvers, numerical constraints, etc.).
+- **Programming languages** (logic programming, functional programming, etc.).
+- Application of the above techniques to *robots*, *vehicle embedded systems*, and *machine-learning-based systems*.
+
+### Reference
 
 - [Introductory page (JAIST site)](https://www.jaist.ac.jp/english/laboratory/ngdi/ishii.html)
 - [Introductory slides](../2023-04_il-intro.pdf)
