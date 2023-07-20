@@ -43,6 +43,7 @@ Tel: +81-761-51-1260
 - **Software engineering/science** (formal methods, model checking, program verification, etc.).
 - **Constraint programming** (SAT/SMT solvers, numerical constraints, etc.).
 - **Programming languages** (logic programming, functional programming, etc.).
+- **Cyber-physical systems**, **continuous/discrete hybrid systems**.
 - Application of the above techniques to *robots*, *vehicle embedded systems*, and *machine-learning-based systems*.
 
 ### Reference
