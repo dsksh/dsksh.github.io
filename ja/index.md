@@ -8,7 +8,8 @@ redirect_from:
 
 [北陸先端科学技術大学院大学 (JAIST)](https://www.jaist.ac.jp/index.html)
             
-[情報科学系](https://www.jaist.ac.jp/areas/information-science.html)
+[次世代デジタル社会基盤研究領域](https://www.jaist.ac.jp/areas/ngdi/)
+([情報科学系](https://www.jaist.ac.jp/areas/information-science.html))
 
 <br />
 
@@ -30,9 +31,8 @@ redirect_from:
 ### 学生
 
 - 中釜 雄太郎 (D2, 東京サテライト)
-- NGO, Tien Duc (M2)
 
-### [OB](./ob.html)
+### [OB・OG](./alumni.html)
 
 <br />
 
@@ -43,8 +43,8 @@ redirect_from:
 - **ソフトウェア工学・科学** (形式手法，モデル検査，プログラム検証)．
 - **制約プログラミング** (SAT/SMTソルバー, 数値制約)．
 - **プログラミング言語** (論理プログラミング，関数プログラミング)．
-- **サイバーフィジカルシステム**，**連続離散ハイブリッドシステム**．
-- 上記の*ロボット*，*車載システム*，*機械学習システム*への応用．
+- **サイバーフィジカルシステム**，**連続離散ハイブリッドシステム**，**機械学習システム**．
+    - 例: *ロボット*，*自動車*．
 
 ### 参考資料
 

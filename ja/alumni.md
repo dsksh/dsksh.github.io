@@ -1,11 +1,12 @@
 ---
 layout: base
 lang: ja
-title: メンバー (OB)
+title: メンバー (OB・OG)
 ---
 
 ## JAIST
 
+- NGO, Tien Duc (2023年度修了)
 - CHEN, Luwei (2022年度修了)
 - DIEU, Tien Dat
 

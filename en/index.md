@@ -6,7 +6,8 @@ title: Ishii Lab
 
 [Japan Advanced Institute of Science and Technology (JAIST)](https://www.jaist.ac.jp/english/index.html)
 
-[School of Information Science](https://www.jaist.ac.jp/english/areas/information-science.html)
+[Next-gen. Digital Infrastructure Research Area](https://www.jaist.ac.jp/english/areas/ngdi/)
+([School of Information Science](https://www.jaist.ac.jp/english/areas/information-science.html))
 
 <br />
 
@@ -30,7 +31,6 @@ Tel: +81-761-51-1260
 ### Students
 
 - NAKAGAMA, Yutaro (D2, Tokyo satellite)
-- NGO, Tien Duc (M2)
 
 ### [Alumni](./alumni.html)
 
@@ -43,8 +43,8 @@ Tel: +81-761-51-1260
 - **Software engineering/science** (formal methods, model checking, program verification, etc.).
 - **Constraint programming** (SAT/SMT solvers, numerical constraints, etc.).
 - **Programming languages** (logic programming, functional programming, etc.).
-- **Cyber-physical systems**, **continuous/discrete hybrid systems**.
-- Application of the above techniques to *robots*, *vehicle embedded systems*, and *machine-learning-based systems*.
+- **Cyber-physical systems**, **continuous/discrete hybrid systems**, and *ML-based systems*.
+    - Examples: *robots* and *automobiles*.
 
 ### Reference
 
