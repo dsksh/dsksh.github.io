@@ -1,8 +1,34 @@
 ---
 layout: base
 lang: en
-title: Call for students
+title: Call for members
 ---
+
+## CREST Project
+
+We are participating in the JST/CREST research project "Formal Methods and Verification Tools for Next-generation Automotive System Platforms" to work on the formal verification of automotive platforms (especially control systems) for autonomous driving.
+
+Reference: https://www.jst.go.jp/kisoken/crest/en/project/1111114/1111114_2023.html
+
+<br />
+
+Example topics:
+
+- Modeling and verification of automotive control system.
+- Development of SMT-based model checking methods and tools.
+
+<br />
+
+We are looking for members from academia and industries to join this project.
+
+- Doctoral students
+    - [https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0](https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0)
+    - We are also looking for internship and master's students.
+- Postdocs (for up to five years)
+    - [https://www.jaist.ac.jp/top/data/r-20231107e.pdf](https://www.jaist.ac.jp/top/data/r-20231107e.pdf)
+- Research collaborators
+
+<br />
 
 ## Lab teaching policy
 

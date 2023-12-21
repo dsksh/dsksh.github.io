@@ -1,10 +1,36 @@
 ---
 layout: base
 lang: ja
-title: 学生募集
+title: メンバー募集
 ---
 
-## 研究室の指導方針
+## CRESTプロジェクト
+
+当研究室は JST・CREST の研究課題「次世代車載基盤システムのための形式手法と検証ツールの創出」に参加し，自動運転向け車載基盤システム (とくに制御システム) の検証に取り組んでいます．
+
+参考: https://www.jaist.ac.jp/whatsnew/info/2023/11/17-1.html
+
+<br />
+
+研究テーマの例:
+
+- 自動運転車制御システムのモデル化・検証
+- SMTモデル検査手法の開発・ツール化
+
+<br />
+
+大学・産業界から本プロジェクトに参加するメンバーを募集しています．
+
+- 学生 (博士課程)
+    - [https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0](https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0)
+    - 研究生や修士課程学生も募集しています．
+- ポスドク (〜5年間)
+    - [https://www.jaist.ac.jp/top/data/r-20231107.pdf](https://www.jaist.ac.jp/top/data/r-20231107.pdf)
+- 共同研究者
+
+<br />
+
+## 研究室の学生指導方針
 
 - 現状学生数が少ないこともあり，丁寧な指導を実施します．週1回程度の打合せ等．
 - 学生部屋は自由で国際的な雰囲気．コアタイムはありません．
