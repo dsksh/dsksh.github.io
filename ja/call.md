@@ -22,7 +22,7 @@ title: メンバー募集
 大学・産業界から本プロジェクトにご参加いただけるメンバーを募集しています．
 
 - **学生** (博士課程)
-    - [https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0](https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0)
+    - [https://jstorage.box.com/s/vvx3sxk0uocudba2xlnh2snywe7m18rc](https://jstorage.box.com/s/vvx3sxk0uocudba2xlnh2snywe7m18rc)
     - 研究生や修士課程学生も募集しています．
 - **ポスドク** (〜5年間)
     - [https://www.jaist.ac.jp/top/data/r-20231107.pdf](https://www.jaist.ac.jp/top/data/r-20231107.pdf)

@@ -22,7 +22,7 @@ Example topics:
 We are looking for members from academia and industries to join this project.
 
 - **Doctoral students**
-    - [https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0](https://jstorage.box.com/s/qu5x8btvbsbuxjnoluastc9dpjz5edm0)
+    - [https://jstorage.box.com/s/vvx3sxk0uocudba2xlnh2snywe7m18rc](https://jstorage.box.com/s/vvx3sxk0uocudba2xlnh2snywe7m18rc)
     - We are also looking for internship and master's students.
 - **Postdocs** (for up to five years)
     - [https://www.jaist.ac.jp/top/data/r-20231107e.pdf](https://www.jaist.ac.jp/top/data/r-20231107e.pdf)

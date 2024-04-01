@@ -30,7 +30,8 @@ Tel: +81-761-51-1260
 
 ### Students
 
-- NAKAGAMA, Yutaro (D2, Tokyo satellite)
+- NAKAGAMA, Yutaro (D3, Tokyo satellite)
+- SEGAWA, Shuichi (D1, Tokyo satellite)
 
 ### [Alumni](./alumni.html)
 
