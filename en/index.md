@@ -50,7 +50,7 @@ Tel: +81-761-51-1260
 ### Reference
 
 - [Introductory page (JAIST site)](https://www.jaist.ac.jp/english/laboratory/ngdi/ishii.html)
-- [Introductory slides](../2023-04_il-intro.pdf)
+- [Introductory slides](https://jstorage.box.com/s/3flad5znm4vg9z521weom1c74gid41f7)
 - [Publication list (researchmap)](https://researchmap.jp/dishii/published_papers?lang=en)
 
 <!-- EOF -->

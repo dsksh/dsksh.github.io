@@ -50,7 +50,7 @@ redirect_from:
 ### 参考資料
 
 - [研究紹介ページ (JAIST)](https://www.jaist.ac.jp/laboratory/ngdi/ishii.html)
-- [紹介スライド](../2023-04_il-intro.pdf)
+- [紹介スライド](https://jstorage.box.com/s/3flad5znm4vg9z521weom1c74gid41f7)
 - [論文リスト (researchmap)](https://researchmap.jp/dishii/published_papers?lang=ja)
 - [発表履歴 (researchmap)](https://researchmap.jp/dishii/misc?lang=ja)
 
