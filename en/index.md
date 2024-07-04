@@ -32,6 +32,7 @@ Tel: +81-761-51-1260
 
 - NAKAGAMA, Yutaro (D3, Tokyo satellite)
 - SEGAWA, Shuichi (D1, Tokyo satellite)
+- TANG, Ziming (M1)
 
 ### [Alumni](./alumni.html)
 

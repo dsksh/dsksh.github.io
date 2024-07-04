@@ -26,12 +26,13 @@ redirect_from:
 
 ### 教員
 
-- [石井 大輔 (准教授)](https://researchmap.jp/dishii?lang=ja)
+- [石井 大輔](https://researchmap.jp/dishii?lang=ja) (准教授)
 
 ### 学生
 
 - 中釜 雄太郎 (D3, 東京サテライト)
 - 瀬川 秀一 (D1, 東京サテライト)
+- TANG, Ziming (M1)
 
 ### [OB・OG](./alumni.html)
 
