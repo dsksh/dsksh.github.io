@@ -10,3 +10,15 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-redirect-from
+exclude:
+  - myscript.sh
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - vendor/
+  - vint-201912.zip
+  - vint-jcam2020.zip
