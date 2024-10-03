@@ -24,9 +24,13 @@ Tel: +81-761-51-1260
 
 ## Members
 
-### Supervisor
+### Faculty
 
 - [ISHII, Daisuke](https://researchmap.jp/dishii?lang=en)
+
+### Researcher
+
+- [LIN, Pengfei](https://pengfeilin0609.github.io/lpfff_cv/)
 
 ### Students
 

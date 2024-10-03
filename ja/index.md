@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 [北陸先端科学技術大学院大学 (JAIST)](https://www.jaist.ac.jp/index.html)
-            
+
 [次世代デジタル社会基盤研究領域](https://www.jaist.ac.jp/areas/ngdi/)
 ([情報科学系](https://www.jaist.ac.jp/areas/information-science.html))
 
@@ -27,6 +27,10 @@ redirect_from:
 ### 教員
 
 - [石井 大輔](https://researchmap.jp/dishii?lang=ja) (准教授)
+
+### 研究員
+
+- [LIN, Pengfei](https://pengfeilin0609.github.io/lpfff_cv/) (特任助教)
 
 ### 学生
 
