@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 lang: ja
 title: 石井研究室
 redirect_from:
@@ -30,13 +30,13 @@ redirect_from:
 
 ### 研究員
 
-- [LIN, Pengfei](https://pengfeilin0609.github.io/lpfff_cv/) (特任助教)
+- LIN, Pengfei (特任助教)
 
 ### 学生
 
 - 中釜 雄太郎 (D3, 東京サテライト)
-- 瀬川 秀一 (D1, 東京サテライト)
-- TANG, Ziming (M1)
+- 瀬川 秀一 (D2, 東京サテライト)
+- TANG, Ziming (M2)
 
 ### [OB・OG](./alumni.html)
 
@@ -48,7 +48,7 @@ redirect_from:
 
 - **ソフトウェア工学・科学** (形式手法，モデル検査，プログラム検証)．
 - **制約プログラミング** (SAT/SMTソルバー, 数値制約)．
-- **プログラミング言語** (論理プログラミング，関数プログラミング)．
+- **プログラミング言語** (論理型，関数型)．
 - **サイバーフィジカルシステム**，**連続離散ハイブリッドシステム**，**機械学習システム**．
     - 例: *ロボット*，*自動車*．
 

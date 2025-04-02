@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 lang: en
 title: Ishii Lab
 ---
@@ -30,13 +30,13 @@ Tel: +81-761-51-1260
 
 ### Researcher
 
-- [LIN, Pengfei](https://pengfeilin0609.github.io/lpfff_cv/)
+- LIN, Pengfei
 
 ### Students
 
 - NAKAGAMA, Yutaro (D3, Tokyo satellite)
-- SEGAWA, Shuichi (D1, Tokyo satellite)
-- TANG, Ziming (M1)
+- SEGAWA, Shuichi (D2, Tokyo satellite)
+- TANG, Ziming (M2)
 
 ### [Alumni](./alumni.html)
 

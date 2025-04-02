@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 lang: ja
 title: メンバー募集
 ---
@@ -7,6 +7,8 @@ title: メンバー募集
 ## CRESTプロジェクト
 
 当研究室は JST・CREST の研究課題「次世代車載基盤システムのための形式手法と検証ツールの創出」に参加し，自動運転向け車載基盤システム (とくに制御システム) の検証に取り組んでいます．
+
+期間: 2023〜2028年度 (5.5年間)
 
 参考: [https://www.jaist.ac.jp/project/crest_fmap/](https://www.jaist.ac.jp/project/crest_fmap/)
 
@@ -20,12 +22,13 @@ title: メンバー募集
 <br />
 
 大学・産業界から本プロジェクトにご参加いただけるメンバーを募集しています．
+石井グループに興味がある方は，下記メールアドレスまでお気軽にお問い合わせください．
 
 - **学生** (博士課程)
-    - [https://jstorage.box.com/s/vvx3sxk0uocudba2xlnh2snywe7m18rc](https://jstorage.box.com/s/vvx3sxk0uocudba2xlnh2snywe7m18rc)
+    - [https://jstorage.box.com/s/dbjtirduh6p2hodfqevten4y6dendqx0](https://jstorage.box.com/s/dbjtirduh6p2hodfqevten4y6dendqx0)
     - 研究生や修士課程学生も募集しています．
-- **ポスドク** (〜5年間)
-    - [https://www.jaist.ac.jp/top/data/r-20231107.pdf](https://www.jaist.ac.jp/top/data/r-20231107.pdf)
+- **ポスドク**
+    - [https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124120850](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124120850&ln=0)
 - **共同研究者**
 
 <br />
@@ -41,12 +44,12 @@ title: メンバー募集
 
 ## 見学方法
 
-- **入学希望者**: お気軽に[メール](mailto:dsksh@jaist.ac.jp)で問い合わせてください．随時オンライン面談可能．
+- **入学希望者**: お気軽にメールで問い合わせてください．随時オンライン面談可能．
     - 当方の[専門分野](./index.html#research-ja)について少し調べ，どこに興味をもったかをメールに書いてください．
         - くわしく調べる必要はありません (専門外でも熱意があれば受け入れます)．
     - オープンキャンパスやいつでもどこでも進学相談会の利用も検討してください．
     - 詳しくは大学HPの[入学案内](https://www.jaist.ac.jp/admissions/)を参照．<br /><br />
-- **JAIST生**: [メール](mailto:dsksh@jaist.ac.jp)で問い合わせてください (居室へいきなり来るのはおすすめしない)．随時面談可能．
+- **JAIST生**: メールで問い合わせてください (居室へいきなり来るのはおすすめしない)．随時面談可能．
 
 <br />
 
@@ -64,5 +67,11 @@ title: メンバー募集
 
 - [大学HP](https://www.jaist.ac.jp/studentlife/support/scholarships.html)をご参照ください．
 - 博士後期過程ではRA/UA雇用による支援が可能．
+
+<br />
+
+## メールアドレス
+
+![dsksh at jaist.ac.jp](https://www.jaist.ac.jp/laboratory/images/dsksh-mail.gif)
 
 <!-- EOF -->
