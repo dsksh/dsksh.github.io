@@ -51,6 +51,10 @@ title: メンバー募集
     - 詳しくは大学HPの[入学案内](https://www.jaist.ac.jp/admissions/)を参照．<br /><br />
 - **JAIST生**: メールで問い合わせてください (居室へいきなり来るのはおすすめしない)．随時面談可能．
 
+### メールアドレス
+
+![dsksh at jaist.ac.jp](https://www.jaist.ac.jp/laboratory/images/dsksh-mail.gif)
+
 <br />
 
 ## 科目等履修生，研究生等
@@ -67,11 +71,5 @@ title: メンバー募集
 
 - [大学HP](https://www.jaist.ac.jp/studentlife/support/scholarships.html)をご参照ください．
 - 博士後期過程ではRA/UA雇用による支援が可能．
-
-<br />
-
-## メールアドレス
-
-![dsksh at jaist.ac.jp](https://www.jaist.ac.jp/laboratory/images/dsksh-mail.gif)
 
 <!-- EOF -->

@@ -50,6 +50,10 @@ If you are interested in Ishii's group, please feel free to contact me at the em
     - See also [https://www.jaist.ac.jp/english/admissions/](https://www.jaist.ac.jp/english/admissions/).<br /><br />
 - **Students of JAIST**: Please contact by email. We can have an interview as needed.
 
+### Email address
+
+![dsksh at jaist.ac.jp](https://www.jaist.ac.jp/laboratory/images/dsksh-mail.gif)
+
 <br />
 
 ## Internship
@@ -66,11 +70,5 @@ If you are interested in Ishii's group, please feel free to contact me at the em
 
 - See [https://www.jaist.ac.jp/english/studentlife/support/scholarships.html](https://www.jaist.ac.jp/english/studentlife/support/scholarships.html).
 - Support is available through RA/UA employment in the doctoral program.
-
-<br />
-
-## Contact
-
-![dsksh at jaist.ac.jp](https://www.jaist.ac.jp/laboratory/images/dsksh-mail.gif)
 
 <!-- EOF -->
