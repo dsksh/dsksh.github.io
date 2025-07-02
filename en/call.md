@@ -29,6 +29,7 @@ If you are interested in Ishii's group, please feel free to contact me at the em
     - We are also looking for internship and master's students.
 - **Postdocs**
     - [https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124120850](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124120850&ln=1)
+    - Our group is currently offering a position. There is an option to upgrade the job type. Please feel free to contact me if you are interested.
 - **Research collaborators**
 
 <br />
@@ -48,7 +49,7 @@ If you are interested in Ishii's group, please feel free to contact me at the em
     - Please check our [research topics](./index.html#research-en) and describe your point of interest in the mail.
         - Exact matching of specialties is not required, if you are enthusiastic about studying.
     - See also [https://www.jaist.ac.jp/english/admissions/](https://www.jaist.ac.jp/english/admissions/).<br /><br />
-- **Students of JAIST**: Please contact by email. We can have an interview as needed.
+- **Students of JAIST**: Please contact by email. I don't recommend coming directly to the lab. We can have an interview as needed.
 
 ### Email address
 

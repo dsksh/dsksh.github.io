@@ -29,6 +29,7 @@ title: メンバー募集
     - 研究生や修士課程学生も募集しています．
 - **ポスドク**
     - [https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124120850](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D124120850&ln=0)
+    - 現在，石井グループで募集しています．職種をアップグレードできる可能性もあります．興味があれば遠慮なくご連絡ください．
 - **共同研究者**
 
 <br />
