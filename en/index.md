@@ -28,15 +28,16 @@ Tel: +81-761-51-1260
 
 - [ISHII, Daisuke](https://researchmap.jp/dishii?lang=en)
 
-### Researcher
-
-- LIN, Pengfei
-
 ### Students
 
 - NAKAGAMA, Yutaro (D3, Tokyo satellite)
 - SEGAWA, Shuichi (D2, Tokyo satellite)
 - TANG, Ziming (M2)
+- ISLAM, Md Rakibul (M1)
+
+### Research student
+
+- EZENWOSU, Raymond Umeadi
 
 ### [Alumni](./alumni.html)
 

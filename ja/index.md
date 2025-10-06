@@ -28,15 +28,16 @@ redirect_from:
 
 - [石井 大輔](https://researchmap.jp/dishii?lang=ja) (准教授)
 
-### 研究員
-
-- LIN, Pengfei (特任助教)
-
 ### 学生
 
 - 中釜 雄太郎 (D3, 東京サテライト)
 - 瀬川 秀一 (D2, 東京サテライト)
 - TANG, Ziming (M2)
+- ISLAM, Md Rakibul (M1)
+
+### 研究生
+
+- EZENWOSU, Raymond Umeadi
 
 ### [OB・OG](./alumni.html)
 
