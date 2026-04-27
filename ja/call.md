@@ -24,11 +24,9 @@ title: メンバー募集
 大学・産業界から本プロジェクトにご参加いただけるメンバーを募集しています．
 石井グループに興味がある方は，下記メールアドレスまでお気軽にお問い合わせください．
 
-- **学生** (博士課程)
-    - [https://jstorage.box.com/s/dbjtirduh6p2hodfqevten4y6dendqx0](https://jstorage.box.com/s/dbjtirduh6p2hodfqevten4y6dendqx0)
-    - 研究生や修士課程学生も募集しています．
+- **学生** (博士後期課程，修士課程，研究生)
 - **ポスドク**
-    - [https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125070205&ln=0](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125070205&ln=0)
+    - [https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=0](https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=0)
     - 現在，石井グループで募集しています．職種をアップグレードできる可能性もあります．興味があれば遠慮なくご連絡ください．
 - **共同研究者**
 
@@ -71,6 +69,6 @@ title: メンバー募集
 ## 経済支援等
 
 - [大学HP](https://www.jaist.ac.jp/studentlife/support/scholarships.html)をご参照ください．
-- 博士後期過程ではRA/UA雇用による支援が可能．
+- 博士前期過程ではTA/LA雇用，博士後期過程ではRA/LA/UA雇用による支援が可能．
 
 <!-- EOF -->

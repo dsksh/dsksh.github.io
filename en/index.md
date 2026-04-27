@@ -31,13 +31,10 @@ Tel: +81-761-51-1260
 ### Students
 
 - NAKAGAMA, Yutaro (D3, Tokyo satellite)
-- SEGAWA, Shuichi (D2, Tokyo satellite)
+- SEGAWA, Shuichi (D3, Tokyo satellite)
+- EZENWOSU, Raymond Umeadi (D1)
 - TANG, Ziming (M2)
 - ISLAM, Md Rakibul (M1)
-
-### Research student
-
-- EZENWOSU, Raymond Umeadi
 
 ### [Alumni](./alumni.html)
 
@@ -56,7 +53,7 @@ Tel: +81-761-51-1260
 ### Reference
 
 - [Introductory page (JAIST site)](https://www.jaist.ac.jp/english/laboratory/ngdi/ishii.html)
-- [Introductory slides](https://jstorage.box.com/s/3flad5znm4vg9z521weom1c74gid41f7)
+- [Introductory slides](https://jstorage.box.com/s/y2vfx80obd21xtt03zpol5grnv9olv1h)
 - [Publication list (researchmap)](https://researchmap.jp/dishii/published_papers?lang=en)
 
 <!-- EOF -->

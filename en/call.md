@@ -24,11 +24,9 @@ Example topics:
 We are looking for members from academia and industries to join this project.
 If you are interested in Ishii's group, please feel free to contact me at the email address below.
 
-- **Doctoral students**
-    - [https://jstorage.box.com/s/dbjtirduh6p2hodfqevten4y6dendqx0](https://jstorage.box.com/s/dbjtirduh6p2hodfqevten4y6dendqx0)
-    - We are also looking for internship and master's students.
+- **Doctoral students**, **master's students**, **interns**
 - **Postdocs**
-    - [https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125070205&ln=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125070205&ln=1)
+    - [https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=1](https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=1)
     - Our group is currently offering a position. There is an option to upgrade the job type. Please feel free to contact me if you are interested.
 - **Research collaborators**
 
@@ -70,6 +68,6 @@ If you are interested in Ishii's group, please feel free to contact me at the em
 ## Financial support
 
 - See [https://www.jaist.ac.jp/english/studentlife/support/scholarships.html](https://www.jaist.ac.jp/english/studentlife/support/scholarships.html).
-- Support is available through RA/UA employment in the doctoral program.
+- Support is available through TA/LA emproyment in the master's program, and RA/LA/UA employment in the doctoral program, respectively.
 
 <!-- EOF -->

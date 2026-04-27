@@ -31,13 +31,10 @@ redirect_from:
 ### 学生
 
 - 中釜 雄太郎 (D3, 東京サテライト)
-- 瀬川 秀一 (D2, 東京サテライト)
+- 瀬川 秀一 (D3, 東京サテライト)
+- EZENWOSU, Raymond Umeadi (D1)
 - TANG, Ziming (M2)
 - ISLAM, Md Rakibul (M1)
-
-### 研究生
-
-- EZENWOSU, Raymond Umeadi
 
 ### [OB・OG](./alumni.html)
 
@@ -56,7 +53,7 @@ redirect_from:
 ### 参考資料
 
 - [研究紹介ページ (JAIST)](https://www.jaist.ac.jp/laboratory/ngdi/ishii.html)
-- [紹介スライド](https://jstorage.box.com/s/3flad5znm4vg9z521weom1c74gid41f7)
+- [紹介スライド](https://jstorage.box.com/s/y2vfx80obd21xtt03zpol5grnv9olv1h)
 - [論文リスト (researchmap)](https://researchmap.jp/dishii/published_papers?lang=ja)
 - [発表履歴 (researchmap)](https://researchmap.jp/dishii/misc?lang=ja)
 
