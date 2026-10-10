@@ -6,6 +6,7 @@ title: メンバー (OB・OG)
 
 ## JAIST
 
+- TANG, Ziming (2026年度修了)
 - LIN, Pengfei (特任助教, 2024-2025)
 - NGO, Tien Duc (2023年度修了)
 - CHEN, Luwei (2022年度修了)

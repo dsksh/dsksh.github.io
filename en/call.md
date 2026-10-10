@@ -16,26 +16,24 @@ Reference: [https://www.jaist.ac.jp/project/crest_fmap/en/](https://www.jaist.ac
 
 Example topics:
 
-- Modeling and verification of automotive control system.
+- Modeling and verification of a control software component of autonomous vehicles.
 - Development of SMT-based model checking methods and tools.
 
 <br />
 
-We are looking for members from academia and industries to join this project.
+We are looking for members from academia and industry to join this project.
 If you are interested in Ishii's group, please feel free to contact me at the email address below.
 
 - **Doctoral students**, **master's students**, **interns**
 - **Postdocs**
-    - [https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=1](https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=1)
-    - Our group is currently offering a position. There is an option to upgrade the job type. Please feel free to contact me if you are interested.
 - **Research collaborators**
 
 <br />
 
 ## Lab teaching policy
 
-- The low student-teacher rate (relative to neighboring labs) provides careful guidance.
-- The student room have a free and international atmosphere. Working hours are not controlled.
+- The low student-teacher ratio (relative to neighboring labs) provides careful guidance.
+- The student room has a free and international atmosphere. Working hours are not controlled.
 - Students will work on both theoretical aspects and experiments with software implementation.
 - Master's students are expected to make presentations at domestic and/or international conferences/workshops by graduation.
 
@@ -43,8 +41,8 @@ If you are interested in Ishii's group, please feel free to contact me at the em
 
 ## Contact
 
-- **Applicants for admission/internship**: Please contact by email. Online interviews will be set up as needed.
-    - Please check our [research topics](./index.html#research-en) and describe your point of interest in the mail.
+- **Applicants for admission/internship**: Please contact me by email. Online interviews will be set up as needed.
+    - Please check our [research topics](./index.html#research-en) and describe your point of interest in your mail.
         - Exact matching of specialties is not required, if you are enthusiastic about studying.
     - See also [https://www.jaist.ac.jp/english/admissions/](https://www.jaist.ac.jp/english/admissions/).<br /><br />
 - **Students of JAIST**: Please contact by email. I don't recommend coming directly to the lab. We can have an interview as needed.
@@ -68,6 +66,6 @@ If you are interested in Ishii's group, please feel free to contact me at the em
 ## Financial support
 
 - See [https://www.jaist.ac.jp/english/studentlife/support/scholarships.html](https://www.jaist.ac.jp/english/studentlife/support/scholarships.html).
-- Support is available through TA/LA emproyment in the master's program, and RA/LA/UA employment in the doctoral program, respectively.
+- Support is available through TA/LA employment in the master's program, and RA/LA/UA employment in the doctoral program.
 
 <!-- EOF -->

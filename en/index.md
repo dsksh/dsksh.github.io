@@ -13,7 +13,7 @@ title: Ishii Lab
 
 1-1 Asahidai, Nomi-shi, Ishikawa, 923-1292 Japan
 
-IS Bldg. 6F Room I-64a
+IS Bldg. II 6F Room I-64a
 
 [Access](https://www.jaist.ac.jp/english/top/access/)
 [Map](https://www.jaist.ac.jp/english/top/campusmap/)
@@ -26,15 +26,21 @@ Tel: +81-761-51-1260
 
 ### Faculty
 
-- [ISHII, Daisuke](https://researchmap.jp/dishii?lang=en)
+- [ISHII, Daisuke](https://researchmap.jp/dishii?lang=en) (Associate Professor)
+
+### Researcher
+
+- SHANG, Yuxiang (Project Assistant Professor)
 
 ### Students
 
 - NAKAGAMA, Yutaro (D3, Tokyo satellite)
 - SEGAWA, Shuichi (D3, Tokyo satellite)
+- OYAMA, Shotaro (D1, Tokyo satellite)
 - EZENWOSU, Raymond Umeadi (D1)
-- TANG, Ziming (M2)
-- ISLAM, Md Rakibul (M1)
+- ISLAM, Md Rakibul (M2)
+- NGUYEN, Truong Tat (M2)
+- TANG, Xiangqi (M1)
 
 ### [Alumni](./alumni.html)
 
@@ -55,5 +61,7 @@ Tel: +81-761-51-1260
 - [Introductory page (JAIST site)](https://www.jaist.ac.jp/english/laboratory/ngdi/ishii.html)
 - [Introductory slides](https://jstorage.box.com/s/y2vfx80obd21xtt03zpol5grnv9olv1h)
 - [Publication list (researchmap)](https://researchmap.jp/dishii/published_papers?lang=en)
+- [Misc. presentations (researchmap)](https://researchmap.jp/dishii/misc?lang=en)
+- [GitHub](https://github.com/cpcp-lab/)
 
 <!-- EOF -->

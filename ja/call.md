@@ -6,7 +6,7 @@ title: メンバー募集
 
 ## CRESTプロジェクト
 
-当研究室は JST・CREST の研究課題「次世代車載基盤システムのための形式手法と検証ツールの創出」に参加し，自動運転向け車載基盤システム (とくに制御システム) の検証に取り組んでいます．
+当研究室は JST・CREST の研究課題「次世代車載基盤システムのための形式手法と検証ツールの創出」に参加し，自動運転向け車載基盤システム (とくに制御システム) の形式検証に取り組んでいます．
 
 期間: 2023〜2028年度 (5.5年間)
 
@@ -26,8 +26,6 @@ title: メンバー募集
 
 - **学生** (博士後期課程，修士課程，研究生)
 - **ポスドク**
-    - [https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=0](https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126021071&lang=0)
-    - 現在，石井グループで募集しています．職種をアップグレードできる可能性もあります．興味があれば遠慮なくご連絡ください．
 - **共同研究者**
 
 <br />
@@ -45,7 +43,7 @@ title: メンバー募集
 
 - **入学希望者**: お気軽にメールで問い合わせてください．随時オンライン面談可能．
     - 当方の[専門分野](./index.html#research-ja)について少し調べ，どこに興味をもったかをメールに書いてください．
-        - くわしく調べる必要はありません (専門外でも熱意があれば受け入れます)．
+        - 詳しく調べる必要はありません (専門外でも熱意があれば受け入れます)．
     - オープンキャンパスやいつでもどこでも進学相談会の利用も検討してください．
     - 詳しくは大学HPの[入学案内](https://www.jaist.ac.jp/admissions/)を参照．<br /><br />
 - **JAIST生**: メールで問い合わせてください (居室へいきなり来るのはおすすめしない)．随時面談可能．
@@ -62,13 +60,13 @@ title: メンバー募集
     - *科目等履修生*: たとえば社会人学生になる方が入学前に一部単位修得することが可能．
     - [*特別学修生*](https://www.jaist.ac.jp/education/non-degree/internship.html): 高専生向けインターンシップ．
     - 他．
-- くわしくは [https://www.jaist.ac.jp/education/non-degree/](https://www.jaist.ac.jp/education/non-degree/) をご参照ください．
+- 詳しくは [https://www.jaist.ac.jp/education/non-degree/](https://www.jaist.ac.jp/education/non-degree/) をご参照ください．
 
 <br />
 
 ## 経済支援等
 
 - [大学HP](https://www.jaist.ac.jp/studentlife/support/scholarships.html)をご参照ください．
-- 博士前期過程ではTA/LA雇用，博士後期過程ではRA/LA/UA雇用による支援が可能．
+- 博士前期課程ではTA/LA雇用，博士後期課程ではRA/LA/UA雇用による支援が可能．
 
 <!-- EOF -->
