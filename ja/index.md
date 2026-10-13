@@ -36,8 +36,8 @@ redirect_from:
 
 - 中釜 雄太郎 (D3, 東京サテライト)
 - 瀬川 秀一 (D3, 東京サテライト)
-- 尾山 昌太郎 (D1, 東京サテライト)
 - EZENWOSU, Raymond Umeadi (D1)
+- 尾山 昌太郎 (D1, 東京サテライト)
 - ISLAM, Md Rakibul (M2)
 - NGUYEN, Truong Tat (M2)
 - TANG, Xiangqi (M1)

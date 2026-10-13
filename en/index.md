@@ -36,8 +36,8 @@ Tel: +81-761-51-1260
 
 - NAKAGAMA, Yutaro (D3, Tokyo satellite)
 - SEGAWA, Shuichi (D3, Tokyo satellite)
-- OYAMA, Shotaro (D1, Tokyo satellite)
 - EZENWOSU, Raymond Umeadi (D1)
+- OYAMA, Shotaro (D1, Tokyo satellite)
 - ISLAM, Md Rakibul (M2)
 - NGUYEN, Truong Tat (M2)
 - TANG, Xiangqi (M1)
